@@ -34,6 +34,9 @@ to train _MitoNet_.
 - [MitoNet models](https://zenodo.org/record/6327742#.YmltqS-cbTQ): Model definition
 and weights as PyTorch scripted modules (includes optimized GPU and CPU versions).
 
+- [Benchmark datasets](https://www.ebi.ac.uk/empiar/EMPIAR-10982/): Six benchmark volumes of
+instance segmented mitochondria from diverse volume EM datasets.
+
 ### Citing this work
 
 If you find any of these resources useful in your work, please cite:
