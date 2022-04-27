@@ -4,9 +4,9 @@ This is the landing page for software projects developed by the [National Cancer
 
 ### Projects
 
-- [Empanada and MitoNet for the panoptic segmentation of 2D and 3D EM images](https://volume-em.github.io/empanada)
+- [Empanada and MitoNet for panoptic segmentation](https://volume-em.github.io/empanada)
 - [The CEM dataset and self-supervised pre-training](https://volume-em.github.io/cem)
-- [Crowdsourcing image segmentation with Zooniverse](https://volume-em.github.io/zooniverse)
+- [Crowdsourced image segmentation with Zooniverse](https://volume-em.github.io/zooniverse)
 - [Ortho-plane inference and weakly supervised learning](https://volume-em.github.io/bootstrap)
 
 ### GitHub
