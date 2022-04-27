@@ -29,7 +29,7 @@ If you find any of these resources useful in your work, please cite:
 	doi = {10.1017/S143192762002053X},
 	issn = {2050-084X},
 	journal = {Microscopy and Microanalysis},
-  publisher = {Cambridge University Press}
+  publisher = {Cambridge University Press},
 	title = {{Enforcing Prediction Consistency Across Orthogonal Planes Significantly Improves Segmentation of FIB-SEM Image Volumes by 2D Neural Networks.}},
 	url = {https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/enforcing-prediction-consistency-across-orthogonal-planes-significantly-improves-segmentation-of-fibsem-image-volumes-by-2d-neural-networks/97314A3AF09213E4E97491D95BF03C1B},
   number = {S2},

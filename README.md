@@ -8,3 +8,7 @@ This is the landing page for software projects developed by the [National Cancer
 - [The CEM dataset and self-supervised pre-training](https://volume-em.github.io/cem)
 - [Crowdsourcing image segmentation with Zooniverse](https://volume-em.github.io/zooniverse)
 - [Ortho-plane inference and weakly supervised learning](https://volume-em.github.io/bootstrap)
+
+### GitHub
+
+[See all of our open-source work on GitHub.](https://github.com/volume-em)

@@ -2,10 +2,10 @@
 
 ### Overview
 
-![empanada_logo](https://imgur.com/beYkrB2.png)
-![mitonet_logo](https://imgur.com/8rrkSKX.png)
+<img src="images/empanada_logo.png" alt="empanada logo" width="400px"/>
+<img src="images/mitonet_logo.png" alt="mitonet logo" width="400px"/>
 
-EMPANADA stands for **EM** **Pan**optic **A**ny **D**imension **A**nnotation. It's a library
+**EMPANADA** stands for **EM** **Pan**optic **A**ny **D**imension **A**nnotation. It's a library
 developed to efficiently train and deploy deep learning models for the panoptic
 segmentation of large 2D and 3D EM images. We trained a general model called _MitoNet_
 to automatically segment mitochondrial instances, using empanada and a highly heterogeneous dataset of labeled mitochondria.
