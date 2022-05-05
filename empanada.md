@@ -20,14 +20,14 @@ plugin -- though we're open to supporting it's use in other software platforms.
 - [empanada-napari](https://github.com/volume-em/empanada-napari): Source code for the empanada-napari plugin.
 [Documentation is here](https://empanada.readthedocs.io/en/latest/empanada-napari.html).
 
-- [CEM1.5M](https://www.ebi.ac.uk/empiar/EMPIAR-10592/): An unlabeled dataset of 1.5 million
+- [CEM1.5M](https://www.ebi.ac.uk/empiar/EMPIAR-11035/): (Available soon at EMPIAR-11035) An unlabeled dataset of 1.5 million
 EM images of cells. Used for self-supervised pre-training and selecting heterogenous image data
 to annotate for segmentation model training.
 
 - [CEM1.5M Pre-trained Weights](https://zenodo.org/record/6453160#.YmlzHS-cbTQ): PyTorch weights for a ResNet50 model pre-trained on CEM1.5M
 using the SwAV algorithm.
 
-- [CEM-MitoLab](https://www.ebi.ac.uk/empiar/EMPIAR-10592/): A dataset of ~22,000 images
+- [CEM-MitoLab](https://www.ebi.ac.uk/empiar/EMPIAR-11037/): (Available soon at EMPIAR-11037) A dataset of ~22,000 images
 containing over 135,000 individually labeled mitochondria. This is the dataset we used
 to train _MitoNet_.
 
