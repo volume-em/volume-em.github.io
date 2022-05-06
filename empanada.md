@@ -10,7 +10,7 @@ developed to efficiently train and deploy deep learning models for the panoptic
 segmentation of large 2D and 3D EM images. We trained a general model called _MitoNet_
 to automatically segment mitochondrial instances, using empanada and a highly heterogeneous dataset of labeled mitochondria.
 _MitoNet_ is currently available for use in [napari](https://napari.org) with the **empanada-napari**
-plugin -- though we're open to supporting it's use in other software platforms.
+plugin -- though we're open to supporting its use in other software platforms.
 
 ### Resources
 
