@@ -14,6 +14,8 @@ plugin -- though we're open to supporting its use in other software platforms.
 
 ### Resources
 
+- [Current version of the paper](https://www.biorxiv.org/content/10.1101/2022.03.17.484806)
+
 - [empanada](https://github.com/volume-em/empanada.git): Source code for the empanada library.
 [Documentation is here](https://empanada.readthedocs.io/en/latest/index.html).
 
