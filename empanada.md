@@ -37,7 +37,7 @@ to train _MitoNet_.
 and weights as PyTorch scripted modules (includes optimized GPU and CPU versions).
 
 - [Benchmark datasets](https://www.ebi.ac.uk/empiar/EMPIAR-10982/): Six benchmark volumes of
-instance segmented mitochondria and 1 benchmark dataset of 100 TEM images from diverse EM datasets.
+instance segmented mitochondria and one benchmark dataset of 100 TEM images from diverse EM datasets.
 
 ### Citing this work
 
