@@ -22,22 +22,22 @@ plugin -- though we're open to supporting its use in other software platforms.
 - [empanada-napari](https://github.com/volume-em/empanada-napari): Source code for the empanada-napari plugin.
 [Documentation is here](https://empanada.readthedocs.io/en/latest/empanada-napari.html).
 
-- [CEM1.5M](https://www.ebi.ac.uk/empiar/EMPIAR-11035/): (Available soon at EMPIAR-11035) An unlabeled dataset of 1.5 million
+- [CEM1.5M](https://www.ebi.ac.uk/empiar/EMPIAR-11035/): An unlabeled dataset of 1.5 million
 EM images of cells. Used for self-supervised pre-training and selecting heterogenous image data
 to annotate for segmentation model training.
 
 - [CEM1.5M Pre-trained Weights](https://zenodo.org/record/6453160#.YmlzHS-cbTQ): PyTorch weights for a ResNet50 model pre-trained on CEM1.5M
 using the SwAV algorithm.
 
-- [CEM-MitoLab](https://www.ebi.ac.uk/empiar/EMPIAR-11037/): (Available soon at EMPIAR-11037) A dataset of ~22,000 images
+- [CEM-MitoLab](https://www.ebi.ac.uk/empiar/EMPIAR-11037/): A dataset of ~22,000 images
 containing over 135,000 individually labeled mitochondria. This is the dataset we used
 to train _MitoNet_.
 
-- [MitoNet models](https://zenodo.org/record/6327742#.YmltqS-cbTQ): Model definition
+- [MitoNet models](https://zenodo.org/record/6861565#.Y0BUCHbMJmM): Model definition
 and weights as PyTorch scripted modules (includes optimized GPU and CPU versions).
 
 - [Benchmark datasets](https://www.ebi.ac.uk/empiar/EMPIAR-10982/): Six benchmark volumes of
-instance segmented mitochondria from diverse volume EM datasets.
+instance segmented mitochondria and 1 benchmark dataset of 100 TEM images from diverse EM datasets.
 
 ### Citing this work
 
