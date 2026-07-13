@@ -12,6 +12,9 @@ to automatically segment mitochondrial instances, using empanada and a highly he
 _MitoNet_ is currently available for use in [napari](https://napari.org) with the **empanada-napari**
 plugin -- though we're open to supporting its use in other software platforms.
 
+For the **latest empanada-napari documentation**, go here:
+   https://empanada.readthedocs.io/en/latest/index.html
+
 ### Resources
 
 - [Current version of the paper](https://www.biorxiv.org/content/10.1101/2022.03.17.484806)
