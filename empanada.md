@@ -13,7 +13,7 @@ _MitoNet_ is currently available for use in [napari](https://napari.org) with th
 plugin -- though we're open to supporting its use in other software platforms.
 
 For the **latest empanada-napari documentation**, go here:
-   https://empanada.readthedocs.io/en/latest/index.html
+  [Latest Documentation] (https://empanada.readthedocs.io/en/latest/index.html)
 
 ### Resources
 
