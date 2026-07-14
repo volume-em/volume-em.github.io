@@ -5,6 +5,12 @@
 <img src="images/empanada_logo.png" alt="empanada logo" width="400px"/>
 <img src="images/mitonet_logo.png" alt="mitonet logo" width="400px"/>
 
+> **Important**  
+> Looking for the **latest empanada-napari plugin documentation**?  
+> Go here: https://empanada.readthedocs.io/en/latest/index.html  
+>  
+> This **stable** site documents the core **empanada** / **empanada-dl** library.
+
 **EMPANADA** stands for **EM** **Pan**optic **A**ny **D**imension **A**nnotation. It's a library
 developed to efficiently train and deploy deep learning models for the panoptic
 segmentation of large 2D and 3D EM images. We trained a general model called _MitoNet_
@@ -12,8 +18,7 @@ to automatically segment mitochondrial instances, using empanada and a highly he
 _MitoNet_ is currently available for use in [napari](https://napari.org) with the **empanada-napari**
 plugin -- though we're open to supporting its use in other software platforms.
 
-For the **latest empanada-napari documentation**, go here:
-  [Latest Documentation] (https://empanada.readthedocs.io/en/latest/index.html)
+
 
 ### Resources
 
